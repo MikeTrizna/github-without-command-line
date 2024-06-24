@@ -7,7 +7,7 @@ questions:
   - 
 ---
 
-# Creating a respository with GitHub Desktop
+# Creating a repository with GitHub Desktop
 
 **Scenario**: You've been given a Zip file from a colleague (who does not know how to use GitHub) that contains a full analysis of avocado prices. You would like to share this analysis with other colleagues, and make improvements.
 
